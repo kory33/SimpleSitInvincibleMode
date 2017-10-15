@@ -1,0 +1,7 @@
+name: SimpleSitInvincibleMode
+version: 0.1.0-SNAPSHOT
+main: com.github.kory33.simplesitinvinciblemode.SimpleSitInvincibleMode
+description: A plugin to exempt damages of sitting players.
+
+author: kory33
+depend: [SimpleSit]
